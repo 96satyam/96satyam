@@ -26,24 +26,23 @@ Final-year B.Tech (AI & Data Science) from Delhi. I build end-to-end ML systems 
 ---
 
 ## ⭐ Featured projects
-> **Replace** `REPO_LINK` and `DEPLOYMENT_URL` with your actual repository and demo links.
+
 
 ### 🔍 Fraud Detection — Financial Transactions  
 - **What:** Detect anomalies & fraud in transaction data.  
 - **How:** EDA → feature engineering → tree-based models (XGBoost / RandomForest) + class-weighting; evaluated with ROC-AUC and PR curves.  
-- **Repo:** `https://github.com/96satyam/REPO_LINK`  
-- **Demo:** `REPLACE_WITH_DEPLOYMENT_URL` (Flask)
+-
+- 
 
 ### 💳 Personal Finance Categorization — NLP  
 - **What:** Auto-categorize bank/UPI transactions using only text description.  
 - **How:** Text cleaning → TF-IDF / embeddings → LightGBM / Logistic Regression + rule-based fallbacks.  
-- **Repo:** `https://github.com/96satyam/REPO_LINK`  
-- **Demo:** Streamlit dashboard — `REPLACE_WITH_DEPLOYMENT_URL`
+
 
 ### 🎙️ Friday — Voice-Activated AI Assistant (Extension)  
 - **What:** Enhanced a voice assistant with personalized intents & NLU improvements.  
 - **How:** Speech-to-text integration, intent classification, context handling, small backend.  
-- **Repo:** `https://github.com/96satyam/REPO_LINK`
+
 
 ---
 
