@@ -1,26 +1,82 @@
+<!-- Banner -->
 ![logo](https://github.com/96satyam/96satyam/blob/main/Black%20and%20Blue%20Futuristic%20Technology%20Banner%20Landscape.jpg)
 
-<h1 align="center">Hi 👋, I'm Satyam Tiwari</h1>
-<h3 align="center">AI & Data Science Engineer | Skilled in Python, SQL, ML, and NLP."</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+# Hi 👋, I'm Satyam Tiwari
+### AI & Data Science Engineer • Python • SQL • ML • NLP
 
+<img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=96satyam&label=Profile%20views&color=0e75b6&style=flat" alt="96satyam" /> </p>
-
-- 📫 How to reach me **shivt843@gmail.com**
-
-- ⚡ Fun fact **I don't tell anyone that I am funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/satyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=96satyam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**About me**  
+Final-year B.Tech (AI & Data Science) from Delhi. I build end-to-end ML systems — from data engineering and feature work to model training and lightweight deployment. I focus on financial data, fraud detection, and NLP tasks like transaction categorization.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=96satyam&show_icons=true&locale=en&layout=compact" alt="96satyam" /></p>
+- 📫 Reach me: **[shivt843@gmail.com](mailto:shivt843@gmail.com)**  
+- ⚡ Fun fact: *I don't tell anyone that I am funny*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=96satyam&show_icons=true&locale=en" alt="96satyam" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=96satyam&" alt="96satyam" /></p>
+## 🔭 What I build
+- Production-minded ML pipelines (data → model → API).
+- NLP systems for short text (transaction descriptions).
+- Lightweight demos (Flask / Streamlit) so non-technical teams can test models quickly.
+
+---
+
+## ⭐ Featured projects
+> **Replace** `REPO_LINK` and `DEPLOYMENT_URL` with your actual repository and demo links.
+
+### 🔍 Fraud Detection — Financial Transactions  
+- **What:** Detect anomalies & fraud in transaction data.  
+- **How:** EDA → feature engineering → tree-based models (XGBoost / RandomForest) + class-weighting; evaluated with ROC-AUC and PR curves.  
+- **Repo:** `https://github.com/96satyam/REPO_LINK`  
+- **Demo:** `REPLACE_WITH_DEPLOYMENT_URL` (Flask)
+
+### 💳 Personal Finance Categorization — NLP  
+- **What:** Auto-categorize bank/UPI transactions using only text description.  
+- **How:** Text cleaning → TF-IDF / embeddings → LightGBM / Logistic Regression + rule-based fallbacks.  
+- **Repo:** `https://github.com/96satyam/REPO_LINK`  
+- **Demo:** Streamlit dashboard — `REPLACE_WITH_DEPLOYMENT_URL`
+
+### 🎙️ Friday — Voice-Activated AI Assistant (Extension)  
+- **What:** Enhanced a voice assistant with personalized intents & NLU improvements.  
+- **How:** Speech-to-text integration, intent classification, context handling, small backend.  
+- **Repo:** `https://github.com/96satyam/REPO_LINK`
+
+---
+
+## 🛠️ Tech & tools
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-plain.svg" alt="sklearn" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="32" height="32"/>
+<img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" alt="streamlit" width="32" height="32"/>
+</p>
+
+---
+
+## 📊 GitHub stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=96satyam&show_icons=true&locale=en&layout=compact" alt="top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=96satyam&show_icons=true&locale=en" alt="github stats" />
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=96satyam&" alt="streak" /></p>
+
+---
+
+## 📁 Quick setup (for each project)
+```bash
+git clone REPO_LINK
+cd repo-name
+python -m venv venv
+# activate venv:
+# Linux / macOS -> source venv/bin/activate
+# Windows -> .\venv\Scripts\activate
+pip install -r requirements.txt
+# run notebook or start app (see project README)
