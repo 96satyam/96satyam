@@ -41,24 +41,21 @@ My recent focus is on **Generative AI, LLMs, RAG pipelines, AI Agents, NLP, and 
 
 ---
 
-## ⭐ Featured projects
+## ⭐ Featured Projects
+## 🏥 Federated Learning for Healthcare AI
 
+Built a privacy-preserving federated learning system so hospitals can train models without sharing data. Used secure aggregation & differential privacy to stay HIPAA/GDPR compliant. Improved disease detection while reducing diagnostic costs.
+Tech: Federated Learning • FastAPI • Docker • Differential Privacy
 
-### 🔍 Fraud Detection — Financial Transactions  
-- **What:** Detect anomalies & fraud in transaction data.  
-- **How:** EDA → feature engineering → tree-based models (XGBoost / RandomForest) + class-weighting; evaluated with ROC-AUC and PR curves.  
--
-- 
+## Project Orion — Adaptive LLM Orchestration
 
-### 💳 Personal Finance Categorization — NLP  
-- **What:** Auto-categorize bank/UPI transactions using only text description.  
-- **How:** Text cleaning → TF-IDF / embeddings → LightGBM / Logistic Regression + rule-based fallbacks.  
+Developed a RAG-powered orchestration system that routes queries to optimal LLMs based on cost, latency, and complexity. Cut inference costs by 50%+ while enabling multi-agent collaboration for mission-critical tasks.
+Tech: RAG • LLM Orchestration • Multi-Agent Systems • FastAPI
 
+## 🎙️ Friday — Voice-Activated AI Assistant
 
-### 🎙️ Friday — Voice-Activated AI Assistant (Extension)  
-- **What:** Enhanced a voice assistant with personalized intents & NLU improvements.  
-- **How:** Speech-to-text integration, intent classification, context handling, small backend.  
-
+Created a personalized, secure AI assistant with wake-word activation, speaker verification, and multi-agent reasoning. Integrated tools for web search, email, documents, and vision tasks, making it a true productivity partner.
+Tech: GPT-4o • LangChain • Speech Recognition • Docker • APIs
 
 ---
 
