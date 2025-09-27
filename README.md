@@ -24,8 +24,8 @@ I specialize in building **end-to-end AI/ML systems** — from data engineering 
 My recent focus is on **Generative AI, LLMs, RAG pipelines, AI Agents, NLP, and financial data applications** such as fraud detection and transaction categorization.  
 
 - 📫 Reach me: **[shivt843@gmail.com](mailto:shivt843@gmail.com)**
-- 
-⚡ Fun fact: I love turning research concepts like LLMs and RAG into lightweight, working prototypes.
+- ⚡ Fun fact: I love turning research concepts like LLMs and RAG into lightweight, working prototypes.
+
 
 
 
