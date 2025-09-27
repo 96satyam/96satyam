@@ -76,14 +76,29 @@ My recent focus is on **Generative AI, LLMs, RAG pipelines, AI Agents, NLP, and 
 
 ## 🛠️ Tech & tools
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="32"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-plain.svg" alt="sklearn" width="32" height="32"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="32" height="32"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="32" height="32"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="32" height="32"/>
-<img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" alt="streamlit" width="32" height="32"/>
+  <!-- Core Programming & Data Science -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-plain.svg" alt="Scikit-learn" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" alt="Streamlit" width="32" height="32"/>
+  
+  <!-- Emerging AI Tools & Platforms -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="ChatGPT" width="32" height="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Claude_logo.svg/1200px-Claude_logo.svg.png" alt="Claude" width="32" height="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Meta_AI_logo.svg/1200px-Meta_AI_logo.svg.png" alt="Meta AI" width="32" height="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Runway_logo.svg/1200px-Runway_logo.svg.png" alt="Runway" width="32" height="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Descript_logo.svg/1200px-Descript_logo.svg.png" alt="Descript" width="32" height="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Grammarly_logo.svg/1200px-Grammarly_logo.svg.png" alt="Grammarly" width="32" height="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ProWritingAid_logo.svg/1200px-ProWritingAid_logo.svg.png" alt="ProWritingAid" width="32" height="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Wordtune_logo.svg/1200px-Wordtune_logo.svg.png" alt="Wordtune" width="32" height="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/FeedHive_logo.svg/1200px-FeedHive_logo.svg.png" alt="FeedHive" width="32" height="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Vista_Social_logo.svg/1200px-Vista_Social_logo.svg.png" alt="Vista Social" width="32" height="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Buffer_logo.svg/1200px-Buffer_logo.svg.png" alt="Buffer" width="32" height="32"/>
 </p>
+
 
 ---
 
