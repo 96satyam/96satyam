@@ -4,7 +4,8 @@
 # Hi 👋, I'm Satyam Tiwari
 ### AI & Data Science Engineer • Python • SQL • ML • NLP
 
-<img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/55389276/14086648![Uploading Satyam Tiwari_ AI Expertise Highlighted.png…]()
+5-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=96satyam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
