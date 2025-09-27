@@ -1,6 +1,6 @@
 <!-- Banner -->
 <!-- Banner -->
-![banner](https://raw.githubusercontent.com/96satyam/96satyam/main/profile-banner.png)
+![banner](https://raw.githubusercontent.com/96satyam/96satyam/main/profile_banner.png)
 
 
 # Hi 👋, I'm Satyam Tiwari
