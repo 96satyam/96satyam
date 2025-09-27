@@ -20,18 +20,24 @@ Recently graduated B.Tech (AI & Data Science) engineer from Delhi with hands-on 
 🏆 Awarded by Wattmonk for designing and implementing an **AI-powered Inventory Management Platform**.  
 
 I specialize in building **end-to-end AI/ML systems** — from data engineering and feature design to model training, evaluation, and deployment.
+
 My recent focus is on **Generative AI, LLMs, RAG pipelines, AI Agents, NLP, and financial data applications** such as fraud detection and transaction categorization.  
 
 - 📫 Reach me: **[shivt843@gmail.com](mailto:shivt843@gmail.com)**
-- ⚡ Fun fact: I can explain how Transformers work in simple words—and also build one from scratch.
+- 
+⚡ Fun fact: I love turning research concepts like LLMs and RAG into lightweight, working prototypes.
+
 
 
 ---
 
 ## 🔭 What I build
-- Production-minded ML pipelines (data → model → API).
-- NLP systems for short text (transaction descriptions).
-- Lightweight demos (Flask / Streamlit) so non-technical teams can test models quickly.
+- End-to-end AI/ML systems — from data engineering & feature pipelines to model training, evaluation, and deployment.  
+- Generative AI solutions — including **LLM fine-tuning, RAG pipelines, and AI Agents** for real-world applications.  
+- NLP systems for financial transactions, document understanding, and conversational interfaces.  
+- Production-grade APIs with **FastAPI / Flask**, integrated into scalable backends.  
+- Cloud & containerized deployments using **AWS, Docker, and CI/CD pipelines** for reliable delivery.  
+
 
 ---
 
