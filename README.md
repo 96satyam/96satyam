@@ -42,20 +42,35 @@ My recent focus is on **Generative AI, LLMs, RAG pipelines, AI Agents, NLP, and 
 ---
 
 ## ⭐ Featured Projects
-## 🏥 Federated Learning for Healthcare AI
+### 🏥 Federated Learning for Healthcare AI
 
-Built a privacy-preserving federated learning system so hospitals can train models without sharing data. Used secure aggregation & differential privacy to stay HIPAA/GDPR compliant. Improved disease detection while reducing diagnostic costs.
-Tech: Federated Learning • FastAPI • Docker • Differential Privacy
+- Built a privacy-preserving federated learning system for hospitals to train models without sharing data.
 
-## Project Orion — Adaptive LLM Orchestration
+- Applied secure aggregation & differential privacy to meet HIPAA/GDPR standards.
 
-Developed a RAG-powered orchestration system that routes queries to optimal LLMs based on cost, latency, and complexity. Cut inference costs by 50%+ while enabling multi-agent collaboration for mission-critical tasks.
-Tech: RAG • LLM Orchestration • Multi-Agent Systems • FastAPI
+- Enhanced disease detection accuracy while reducing diagnostic costs.
 
-## 🎙️ Friday — Voice-Activated AI Assistant
+- Tech: Federated Learning • FastAPI • Docker • Differential Privacy
 
-Created a personalized, secure AI assistant with wake-word activation, speaker verification, and multi-agent reasoning. Integrated tools for web search, email, documents, and vision tasks, making it a true productivity partner.
-Tech: GPT-4o • LangChain • Speech Recognition • Docker • APIs
+### Project Orion — Adaptive LLM Orchestration
+
+-Designed a RAG-powered orchestration system that routes queries to optimal LLMs.
+
+-Achieved 50%+ cost reduction in inference while improving response quality.
+
+- Enabled multi-agent collaboration for complex, mission-critical workflows.
+
+- Tech: RAG • LLM Orchestration • Multi-Agent Systems • FastAPI
+
+### 🎙️ Friday — Voice-Activated AI Assistant
+
+- Built a voice-first AI assistant with wake-word activation & speaker verification.
+
+- Integrated multi-agent reasoning with tools for search, email, and documents.
+
+- Extended capabilities with vision + speech recognition for real productivity use.
+
+- Tech: GPT-4o • LangChain • Speech Recognition • Docker • APIs
 
 ---
 
