@@ -1,5 +1,7 @@
 <!-- Banner -->
-![logo](https://github.com/96satyam/96satyam/blob/main/Black%20and%20Blue%20Futuristic%20Technology%20Banner%20Landscape.jpg)
+<!-- Banner -->
+![banner](https://raw.githubusercontent.com/96satyam/96satyam/main/profile-banner.png)
+
 
 # Hi 👋, I'm Satyam Tiwari
 ### AI & Data Science Engineer • Python • SQL • ML • NLP
