@@ -4,7 +4,8 @@
 
 
 # Hi 👋, I'm Satyam Tiwari
-### AI & Data Science Engineer • Python • SQL • ML • NLP
+### AI & Data Science Engineer • Generative AI • LLMs • RAG • NLP • ML • AI Agents • Python • SQL • End-to-End ML Systems
+
 
 <img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/55389276/14086648![Uploading Satyam Tiwari_ AI Expertise Highlighted.png…]()
 5-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -14,10 +15,16 @@
 </p>
 
 **About me**  
-Final-year B.Tech (AI & Data Science) from Delhi. I build end-to-end ML systems — from data engineering and feature work to model training and lightweight deployment. I focus on financial data, fraud detection, and NLP tasks like transaction categorization.
+Recently graduated B.Tech (AI & Data Science) engineer from Delhi with hands-on industry experience as an **ML Engineer Intern at Vaishnav Technologies** and an **AI Engineer at Wattmonk**.  
 
-- 📫 Reach me: **[shivt843@gmail.com](mailto:shivt843@gmail.com)**  
-- ⚡ Fun fact: *I don't tell anyone that I am funny*
+🏆 Awarded by Wattmonk for designing and implementing an **AI-powered Inventory Management Platform**.  
+
+I specialize in building **end-to-end AI/ML systems** — from data engineering and feature design to model training, evaluation, and deployment.
+My recent focus is on **Generative AI, LLMs, RAG pipelines, AI Agents, NLP, and financial data applications** such as fraud detection and transaction categorization.  
+
+- 📫 Reach me: **[shivt843@gmail.com](mailto:shivt843@gmail.com)**
+- ⚡ Fun fact: I can explain how Transformers work in simple words—and also build one from scratch.
+
 
 ---
 
