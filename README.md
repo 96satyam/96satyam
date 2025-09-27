@@ -76,16 +76,29 @@ My recent focus is on **Generative AI, LLMs, RAG pipelines, AI Agents, NLP, and 
 
 ## 🚀 Tech Stack & Tools
 
-### Programming & Development
-![My Skills](https://skillicons.dev/icons?i=py,git,mysql,pytorch,tensorflow,sklearn,streamlit&perline=7)
+<div align="center">
 
-### AI & Machine Learning
-![AI Tools](https://skillicons.dev/icons?i=openai,github,huggingface&perline=3)
 
-### Development Tools
-![Tools](https://skillicons.dev/icons?i=vscode,docker,aws,gcp&perline=4)
+**Core Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FDEE21?style=flat-square&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**AI Agents & Frameworks**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+**MLOps & Data**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![W&B](https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 </div>
+
 
 
 ---
